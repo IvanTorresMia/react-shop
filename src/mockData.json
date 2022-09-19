@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Macbook Pro",
+      "description": "2021 Macbook pro with cool specs",
+      "used": "true",
+      "price": 2500,
+      "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/211025072623-macbook-pro-14-display-5.jpg",
+      "id": 5
+    },
+    {
+      "name": "Ipad Pro",
+      "description": "2021 Ipad Pro",
+      "used": "false",
+      "price": 1200,
+      "imageUrl": "https://icdn.digitaltrends.com/image/digitaltrends/ipad-pro-2018-review-5848.jpg",
+      "id": 6
+    },
+    {
+      "name": "Xbox One",
+      "description": "Xbox One with Controller",
+      "used": "true",
+      "price": 150,
+      "imageUrl": "https://cdn.pocket-lint.com/r/s/970x/assets/images/148296-games-review-xbox-one-s-all-digital-edition-product-shots-image1-xct4hs5njv.jpg",
+      "id": 7
+    },
+    {
+      "name": "Subaru WRX STI",
+      "description": "Turbo Charged Subaru",
+      "used": "true",
+      "price": 20000,
+      "imageUrl": "https://secure-akns.subaru.com/content/media/mp_fullscreen_1920/19_White_Gallery_1.jpg",
+      "id": 8
+    },
+    {
+      "name": "4k Monitor",
+      "description": "4k Monitor looks great",
+      "used": "true",
+      "price": 1000,
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/09/Dell-UltraSharp-32-4K-Monitor-4.jpg",
+      "id": 9
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "description": "Great Mechanical Keyboard feels great",
+      "used": "true",
+      "price": 300,
+      "imageUrl": "https://thegadgetflow.com/wp-content/uploads/2021/05/Top-5-mechanical-keyboards-for-your-workspace-blog-featured.jpeg",
+      "id": 10
+    }
+  ]
+}

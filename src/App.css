@@ -1,0 +1,28 @@
+:root {
+  --primary-gray: rgb(33, 37, 40);
+}
+
+
+
+
+.nav-image {
+  width: 80px;
+}
+
+#list-3 {
+  display: flex;
+}
+
+#list-3 > .card {
+  margin: 10px;
+}
+
+#footer {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  max-width: 100%;
+  overflow-x: hidden;
+  background-color: var(--primary-gray);
+  margin-top: 24%;
+}
